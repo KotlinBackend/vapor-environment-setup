@@ -1,6 +1,6 @@
-# Vapr 在 Ubuntu22.04 上的開發環境建置
+# Vapor 在 Ubuntu22.04 上的開發環境建置
 
-## 1 Vapr 是什麼
+## 1 Vapor 是什麼
 
 Vapor[^1] 是一個用 Swift 程式語言開發的 Web Framework，可運行在 macOS 跟 Linux 上。
 
